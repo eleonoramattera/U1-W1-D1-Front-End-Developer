@@ -11,6 +11,7 @@ h1 {
   background-color: black;
   border-radius: 4px;
   margin: 10px;
+  padding: 10px;
 }
 
 #ele-footer {
@@ -36,6 +37,7 @@ h3 {
 
 img {
   border: 4px solid palevioletred;
+  border-radius: 20px;
 }
 
 .icon {
@@ -43,10 +45,11 @@ img {
 }
 
 #lista {
-  display: block;
+  padding-top: 40px;
+  display: flex;
   flex-direction: row;
   flex-wrap: nowrap;
-  justify-content: center;
+  justify-content: space-evenly;
 }
 
 ul,
@@ -55,4 +58,41 @@ ol {
   flex-direction: row;
   flex-wrap: nowrap;
   justify-content: center;
+}
+
+.second {
+  background-color: #ffe7ec;
+  margin-left: 20%;
+  margin-right: 20%;
+  margin-top: 50px;
+  padding: 50px;
+  border-radius: 50px;
+}
+
+a {
+  text-align: center;
+}
+
+.img {
+  text-align: center;
+  padding-top: 20px;
+}
+
+.table {
+  text-align: center;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+table {
+  width: 100%;
+}
+th,
+tr,
+td {
+  text-align: center;
+}
+
+td [colspan] {
+  text-align: left;
 }
