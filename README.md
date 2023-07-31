@@ -3,6 +3,6 @@ Mi chiamo Eleonora Mattera, ed in questa repository troverete un po' di informaz
 <ul>
   Istruzioni:
   <li> Scaricare la repo ⤵️</li>
-  <li> Aprirla con un editor di codice 💻</li>
-  <li> Visualizzarla poi sul vostro browser📄</li>
+  <li> Aprila con un editor di codice 💻</li>
+  <li> Visualizzala sul tuo browser📄</li>
 </ul>
