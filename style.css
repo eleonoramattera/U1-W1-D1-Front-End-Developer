@@ -10,7 +10,7 @@ main {
 section {
   display: flex;
   align-items: start;
-  justify-content: space-between;
+  justify-content: end;
   flex-wrap: wrap;
 }
 
@@ -20,19 +20,19 @@ h1 {
 }
 
 aside {
-  border-radius: 10px;
-  width: 20%;
-  height: 60vh;
+  width: 18%;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
   align-items: start;
+  margin-right: 1.5em;
 }
 
 address {
   background-color: rgb(230, 142, 171);
   line-height: 1.5em;
   padding: 10px;
+  border-radius: 10px;
 }
 
 aside p {
@@ -51,6 +51,7 @@ section > div {
   border-radius: 50px;
   padding: 15px;
   margin-top: 2em;
+  margin-left: 0.1em;
 }
 
 footer p {
@@ -108,16 +109,13 @@ ol {
   justify-content: center;
 }
 
-a {
-  text-align: center;
-}
-
 .img {
   text-align: center;
   padding-top: 20px;
 }
 
-.table {
+section div:nth-child(5) {
+  width: 80%;
   text-align: center;
   margin-left: 20%;
   margin-right: 20%;
