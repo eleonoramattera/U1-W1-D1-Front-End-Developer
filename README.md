@@ -1,8 +1,7 @@
-# Ciao a tutti 👋😊
-Mi chiamo Eleonora Mattera, ed in questa repository troverete un po' di informazioni su di me, sui miei studi e sulla mia carriera. 👩🏼‍🎓👩‍💻 <br>
-<ul>
-  Istruzioni:
-  <li> Scaricare la repo ⤵️</li>
-  <li> Aprila con un editor di codice 💻</li>
-  <li> Visualizzala sul tuo browser📄</li>
-</ul>
+# Presentazione - Repository Personale
+Benvenuti alla repository della mia presentazione personale! <br>
+In questa repository troverete una breve descrizione su di me 👩 , i miei hobby 🎨, le mie competenze 💪, il mio percorso di studi 👩‍🎓, le mie esperienze lavorative👩‍💻 .
+
+## Link utili
+
+Grazie per aver visitato la mia repository! Se hai domande o desideri saperne di più su di me o sui miei progetti, non esitare a contattarmi tramite i link forniti. Sarò felice di rispondere a qualsiasi domanda e di condividere le mie conoscenze e passioni con voi. Buona lettura!
